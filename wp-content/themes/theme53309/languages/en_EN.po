@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme3207\n"
+"POT-Creation-Date: 2014-10-16 18:47+0200\n"
+"PO-Revision-Date: 2014-10-16 18:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../options.php:379
+msgid "Parallax Slider"
+msgstr ""
+
+#: ../options.php:384 ../options.php:385
+msgid "Display Parallax Slider?"
+msgstr ""
+
+#: ../options.php:396
+msgid "Sliding effect"
+msgstr ""
+
+#: ../options.php:397
+msgid "Select your animation type."
+msgstr ""
+
+#: ../options.php:402
+msgid "Simple Fade"
+msgstr ""
+
+#: ../options.php:403
+msgid "Zoom Fade"
+msgstr ""
+
+#: ../options.php:404
+msgid "Slide Top"
+msgstr ""
+
+#: ../options.php:409
+msgid "Slideshow"
+msgstr ""
+
+#: ../options.php:410
+msgid "Animate slider automatically?"
+msgstr ""
+
+#: ../options.php:421
+msgid "Pause time"
+msgstr ""
+
+#: ../options.php:422
+msgid "Pause time (ms)."
+msgstr ""
+
+#: ../options.php:429
+msgid "Animation speed"
+msgstr ""
+
+#: ../options.php:430
+msgid "Animation speed (ms)."
+msgstr ""
+
+#: ../options.php:437
+msgid "Next & Prev navigation"
+msgstr ""
+
+#: ../options.php:438
+msgid "Display next & prev navigation?"
+msgstr ""
+
+#: ../options.php:448
+msgid "Pagination"
+msgstr ""
+
+#: ../options.php:449
+msgid "Display pagination?"
+msgstr ""
+
+#: ../options.php:462
+msgid "Extra"
+msgstr ""
+
+#: ../options.php:466 ../options.php:467
+msgid "Footer Logo"
+msgstr ""
+
+#: ../options.php:473 ../options.php:474
+msgid "Your Address"
+msgstr ""
+
+#: ../options.php:480 ../options.php:481
+msgid "Your Phone"
+msgstr ""
+
+#: ../options.php:487 ../options.php:488
+msgid "Your Fax"
+msgstr ""
+
+#: ../options.php:494
+msgid "Enter location for map"
+msgstr ""
+
+#: ../options.php:495
+msgid "Enter location for map (city, street, zip)"
+msgstr ""
+
+#: ../options.php:501
+msgid "Enter zoom of your location"
+msgstr ""
+
+#: ../options.php:502
+msgid "Enter zoom of your location (1-15)"
+msgstr ""
+
+#: ../options.php:508
+msgid "Map display"
+msgstr ""
+
+#: ../options.php:509
+msgid "Where should display map?"
+msgstr ""
+
+#: ../options.php:514
+msgid "Only at homepage"
+msgstr ""
+
+#: ../options.php:515
+msgid "On every page"
+msgstr ""
+
+#: ../includes/register-plugins.php:88
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/register-plugins.php:89
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/register-plugins.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/register-plugins.php:91
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/register-plugins.php:102
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/register-plugins.php:103
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/register-plugins.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/shortcodes/circle-stat.php:15
+#: ../includes/shortcodes/posts-grid.php:23
+msgid "Read more"
+msgstr ""
